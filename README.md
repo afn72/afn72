@@ -1,1 +1,1 @@
-![](https://komarev.com/ghpvc/?username=afn72&color=0099ff)
+![](https://komarev.com/ghpvc/?username=afn72&color=0099ff&label=Profile+Views)
