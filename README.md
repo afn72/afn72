@@ -1,1 +1,1 @@
-[![Profile Views](https://hits.dwyl.com/afn72/afn72.svg?style=flat)](http://hits.dwyl.com/afn72/afn72)
+![](https://komarev.com/ghpvc/?username=afn72&color=dc143c)
